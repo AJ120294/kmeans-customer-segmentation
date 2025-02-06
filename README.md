@@ -13,6 +13,8 @@ The dataset contains 200 observations of customers with the following features:
 - **Age**: Age of the customer.
 - **Annual Income (k$)**: Customer's annual income in thousands of dollars.
 - **Spending Score (1-100)**: A score assigned to customers based on their spending habits and purchasing behavior.
+### **Acknowledgment**
+The dataset used in this project is publicly available on Kaggle, titled "Mall Customer Segmentation Data". I thank the original contributors for providing this valuable resource for analysis and learning purposes.
 
 ---
 
